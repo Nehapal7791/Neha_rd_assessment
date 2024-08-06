@@ -51,7 +51,7 @@ python task.py
 
 ## File Structure
 
-- `main.py`: The main script that performs the web scraping and saves data to CSV files.
+- `task.py`: The main script that performs the web scraping and saves data to CSV files.
 
 ## Code Overview
 
